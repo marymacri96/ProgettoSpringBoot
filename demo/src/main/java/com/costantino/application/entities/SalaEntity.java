@@ -1,4 +1,4 @@
-package com.costantino.entities;
+package com.costantino.application.entities;
 
 import java.io.Serializable;
 
